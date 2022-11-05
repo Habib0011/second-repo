@@ -3,3 +3,10 @@ h1{
     color: white;
     display: inline;
 }
+p{
+   display: inline-block;
+    font-weight: 900;
+    background-color: tomato;
+    color: black;
+    font-size: 30px;
+}
